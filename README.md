@@ -1,2 +1,2 @@
-# TutoMach
-#juan carlos es gei
+# TutoMatch
+Equipo de trabajo colaborativo de Programcion 3 
