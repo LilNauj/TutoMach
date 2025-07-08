@@ -1,2 +1,2 @@
 # TutoMatch
-Equipo de trabajo colaborativo de Programcion 3 
+Equipo de trabajo colaborativo de Programacion 3 
